@@ -5,7 +5,7 @@
 
   <h2 align="center">Snake Game - A simple game project</h2>
 
-  Calculater is a fully responsive static priject, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  A simple snake game, <br /> build using HTML, CSS, and JavaScript.
 
   <a href="https://itsaqibzafar.github.io/Snake-Game/"><strong>➥ Live Demo</strong></a>
 
