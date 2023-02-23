@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Calculater Desktop Demo](./desktop.PNG "Desktop Demo")
+![Calculater Desktop Demo](./desktop.png "Desktop Demo")
 
 ### Prerequisites
 
